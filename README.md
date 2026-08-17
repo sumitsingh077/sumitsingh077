@@ -1,6 +1,6 @@
 # Hi there, I'm Sumit Kumar 👋
 
-### 🚀 Aspiring Software Developer | AR/VR Developer | AI & Tech Enthusiast
+### 🚀 Aspiring Software Developer | CSE Student | AI & Emerging Technologies
 
 I'm an undergraduate **Computer Science student at Sharda University**, passionate about building technology-driven solutions and exploring new areas of software development.
 
@@ -61,13 +61,6 @@ A collection of C programming problems and concepts created while strengthening 
 
 ---
 
-## 🏆 Achievements
-
-- 🏅 **Smart India Hackathon Finalist**
-- 💻 **250+ problems solved on LeetCode**
-- 🚀 Experience building real-world technology projects
-
----
 
 ## 📊 GitHub Stats
 
