@@ -1,29 +1,28 @@
 <div align="center">
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=180&section=header&text=SUMIT%20KUMAR&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20%7C%20Software%20Development%20%7C%20AR%2FVR&descAlignY=62&descSize=18" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=24&pause=1000&color=4F9CF9&center=true&vCenter=true&width=800&lines=AR%2FVR+%7C+PROBLEM+SOLVER;Aspiring+Software+Developer;AI+%26+Tech+Enthusiast&duration=2500&repeat=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:00B8D9,100:8E44AD&height=180&section=header&text=SUMIT%20KUMAR&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20%7C%20Software%20Development%20%7C%20Problem%20Solver&descAlignY=62&descSize=18" width="100%"/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&lines=Aspiring+Software+Developer;AI+%26+Tech+Enthusiast;Code.+Learn.+Build.+Repeat.;Turning+Ideas+Into+Technology.;Think+Different.+Build+Better.&duration=2500&repeat=true" />
+
+<br><br>
 
 <a href="https://github.com/sumitsingh077">
-<img src="https://img.shields.io/badge/GitHub-sumitsingh077-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-sumitsingh077-0B1026?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
 <a href="mailto:sumitdos7102006@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-0B1026?style=for-the-badge&logo=gmail&logoColor=FF4D8D"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sumit-kumar-399859389">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0B1026?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sumitsingh077&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sumitsingh077&label=PROFILE%20VIEWS&color=8E44AD&style=for-the-badge"/>
 
 </div>
 
@@ -64,19 +63,19 @@ I'm particularly interested in:
 ### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 </p>
 
 ### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -128,9 +127,9 @@ A collection of **C programming concepts and problem-solving programs** created 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumitsingh077&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sumitsingh077&show_icons=true&theme=dark&bg_color=0B1026&title_color=00E5FF&text_color=FFFFFF&icon_color=8E44AD&border_color=00B8D9&border_radius=12" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsingh077&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsingh077&layout=compact&theme=dark&bg_color=0B1026&title_color=00E5FF&text_color=FFFFFF&border_color=8E44AD&border_radius=12" height="180"/>
 
 </div>
 
@@ -140,7 +139,7 @@ A collection of **C programming concepts and problem-solving programs** created 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sumitsingh077&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img src="https://streak-stats.demolab.com?user=sumitsingh077&theme=dark&background=0B1026&ring=00E5FF&fire=FF4D8D&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=AAAAAA&hide_border=true&border_radius=12"/>
 
 </div>
 
@@ -161,15 +160,15 @@ A collection of **C programming concepts and problem-solving programs** created 
 <div align="center">
 
 <a href="https://github.com/sumitsingh077">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0B1026?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sumit-kumar-399859389">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0B1026?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
 
 <a href="mailto:sumitdos7102006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-0B1026?style=for-the-badge&logo=gmail&logoColor=FF4D8D"/>
 </a>
 
 </div>
@@ -184,4 +183,4 @@ A collection of **C programming concepts and problem-solving programs** created 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:00B8D9,100:8E44AD&height=100&section=footer" width="100%"/>
