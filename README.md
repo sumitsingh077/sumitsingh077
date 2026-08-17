@@ -1,6 +1,6 @@
 # Hi there, I'm Sumit Kumar 👋
 
-### 🚀 Aspiring Software Developer | CSE Student | AI & Emerging Technologies
+### 🚀 Aspiring Software Developer | CSE Student | AI & Tech Enthusiast
 
 I'm an undergraduate **Computer Science student at Sharda University**, passionate about building technology-driven solutions and exploring new areas of software development.
 
@@ -60,7 +60,6 @@ An augmented reality based project focused on creating an interactive experience
 A collection of C programming problems and concepts created while strengthening programming fundamentals.
 
 ---
-
 
 ## 📊 GitHub Stats
 
